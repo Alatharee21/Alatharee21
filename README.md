@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Olaniran Rasheed
-- 👀 I’m interested in UI/UX design
-- 🌱 I’m currently learning Mobile (Flutter) development
+- 👀 I’m interested in UI/UX design and a web3 enthusiast
+- 🌱 I’m currently learning fullStack development
 - 💞️ I’m looking to collaborate on open source and startup Project
 - 📫 You can reach me on;
 
-Twitter: https://twitter.com/hidrah_?t=x7enyE3uUj7HQX7tGzT5ZQ&s=09
+Twitter: https://twitter.com/rasheed_sol
 
 LinkedIn: https://www.linkedin.com/in/rasheed-olaniran-aa0075232
 
